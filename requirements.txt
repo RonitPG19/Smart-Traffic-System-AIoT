@@ -1,0 +1,31 @@
+# ==============================
+# Smart Traffic Light Management System
+# ==============================
+
+# --- Web Framework ---
+Flask==3.0.3
+
+# --- Deep Learning ---
+tensorflow==2.16.1
+ultralytics==8.2.86
+
+# --- Computer Vision ---
+opencv-python==4.10.0.84
+numpy==1.26.4
+
+# --- Audio Processing ---
+pyaudio==0.2.14
+librosa==0.10.2.post1
+soundfile==0.12.1
+
+# --- Data Handling ---
+pandas==2.2.3
+
+# --- GPIO for Raspberry Pi ---
+gpiozero==2.0
+RPi.GPIO==0.7.1
+
+# --- System Utilities ---
+ffmpeg-python==0.2.0
+requests==2.32.3
+tqdm==4.66.5
