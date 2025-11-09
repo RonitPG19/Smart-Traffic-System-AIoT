@@ -168,7 +168,10 @@ http://<raspberry-pi-ip>:5000
 
 ## 👨‍💻 **Contributors**
 
-Ronit Girglani  
+- Ronit Girglani
+- Kenil Patel
+- Vedant Patel
+- Kirtan Visnagara  
 ---
 
 ## 🧾 **License**
